@@ -51,11 +51,11 @@
 
 ## About
 
-**SPAR** (Smart Portfolio & Asset Returns) is a full-stack, production-grade investment management platform developed by **Hedge And Sachs**. It brings institution-level financial tooling to everyday investors through a polished Flutter mobile app backed by a powerful Laravel API and admin dashboard.
+**SPAR** (Smart Portfolio & Asset Returns) is a full-stack, production-grade investment management platform for **Hedge And Sachs**. It brings institution-level financial tooling to everyday investors through a polished Flutter mobile app backed by a powerful Laravel API and admin dashboard.
 
 SPAR enables investors to discover plans, deposit funds, track real-time portfolio performance, earn through referrals and staking, and compete on global leaderboards — all within a single, secure application.
 
-> Designed and built from scratch by **Vansh** for **Hedge And Sachs**.
+> Designed and built by **Vansh** for **Hedge And Sachs**.
 
 ---
 
