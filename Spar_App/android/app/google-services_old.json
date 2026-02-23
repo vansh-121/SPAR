@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "762538310383",
+    "project_id": "hyiplab-4e362",
+    "storage_bucket": "hyiplab-4e362.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762538310383:android:23ece847438194bbc0791a",
+        "android_client_info": {
+          "package_name": "com.rise.investor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762538310383-01emumqpukatfi72demlaqknu6trdsjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk9mPBswUkHfy71kAQKRW6cZ-1zFCmnUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762538310383-01emumqpukatfi72demlaqknu6trdsjh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "762538310383-gm1upc2ft9ibhbde4d0r14smcd2a2n2i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rise.investor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

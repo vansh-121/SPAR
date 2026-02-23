@@ -1,0 +1,1 @@
+var firebaseConfig = {"apiKey":"AIzaSyB9z_8boJbcRbkbn_53WBSUkPDEj-i11OE","authDomain":"http:\/\/rise-4466a.firebaseapp.com","projectId":"rise-4466a","storageBucket":"http:\/\/rise-4466a.firebasestorage.app","messagingSenderId":"742650807877","appId":"1:742650807877:web:90adf0d251c6c67e57052c","measurementId":"G-K0RKM97K3N"}

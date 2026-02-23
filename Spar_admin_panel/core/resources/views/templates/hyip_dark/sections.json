@@ -1,0 +1,351 @@
+{
+    "banner": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Banner Content",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x950"
+                },
+                "left_image": {
+                    "size": "540x680"
+                },
+                "right_image": {
+                    "size": "870x520"
+                },
+                "counter_one_icon": {
+                    "size": "65x65"
+                },
+                "counter_two_icon": {
+                    "size": "65x65"
+                }
+            },
+            "heading": "text",
+            "subheading": "text",
+            "description": "text",
+            "counter_one_text": "text",
+            "counter_one_number": "text",
+            "counter_one_number_end": "text",
+            "counter_one_text_suffix": "text",
+            "counter_two_text": "text",
+            "counter_two_number": "text",
+            "counter_two_number_end": "text",
+            "counter_two_text_suffix": "text"
+        }
+    },
+    "about": {
+        "builder": true,
+        "name": "About",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "360x330"
+                }
+            },
+            "heading": "text",
+            "subheading": "textarea",
+            "button_text": "text",
+            "button_url": "text",
+            "right_side_heading": "text"
+        },
+        "element": {
+            "heading": "text",
+            "subheading": "text",
+            "modal": true
+        }
+    },
+    "plan": {
+        "builder": true,
+        "name": "Plan Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "referral": {
+        "builder": true,
+        "name": "Referral Section",
+        "content": {
+            "images": {
+                "counter_one_icon": {
+                    "size": "50x50"
+                },
+                "counter_two_icon": {
+                    "size": "50x50"
+                }
+            },
+            "heading": "text",
+            "heading_c": "text",
+            "subheading": "text",
+            "number": "text",
+            "button_text": "text",
+            "button_url": "text",
+            "counter_one_text": "text",
+            "counter_one_number": "text",
+            "counter_one_number_end": "text",
+            "counter_one_text_suffix": "text",
+            "counter_two_text": "text",
+            "counter_two_number": "text",
+            "counter_two_number_end": "text",
+            "counter_two_text_suffix": "text"
+        }
+    },
+    "work_process": {
+        "builder": true,
+        "name": "Work Proce Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x975"
+                },
+                "image": {
+                    "size": "345x535"
+                },
+                "right_side_image": {
+                    "size": "410x395"
+                }
+            },
+            "heading": "text",
+            "step_1": "text",
+            "step_2": "text",
+            "step_3": "text",
+            "step_4": "text",
+            "right_side_heading": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "1920x975"
+                }
+            },
+            "modal": true
+        }
+    },
+    "why_choose": {
+        "builder": true,
+        "name": "Why Choose Us",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "700x680"
+                }
+            },
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "title": "text",
+            "modal": true
+        }
+    },
+    "faq": {
+        "builder": true,
+        "name": "FAQ Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "585x585"
+                },
+                "image": {
+                    "size": "385x445"
+                }
+            },
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "question": "text",
+            "answer": "textarea",
+            "modal": true
+        }
+    },
+    "breadcrumb": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Breadcrumb",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "1920x435"
+                }
+            }
+        }
+    },
+    "user_breadcrumb": {
+        "builder": true,
+        "no_selection": true,
+        "name": "User Breadcrumb",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "1500x210"
+                }
+            }
+        }
+    },
+    "user_support_email": {
+        "builder": true,
+        "no_selection": true,
+        "name": "User Support Email",
+        "content": {
+            "email": "text"
+        }
+    },
+    "testimonial": {
+        "builder": true,
+        "name": "Testimonial",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "90x90"
+                }
+            },
+            "name": "text",
+            "designation": "text",
+            "rating": "text",
+            "quote": "textarea",
+            "modal": true
+        }
+    },
+    "top_investor": {
+        "builder": true,
+        "name": "Top Investor",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "blog": {
+        "builder": true,
+        "name": "Blog Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "930x480",
+                    "thumb": "415x230"
+                }
+            },
+            "title": "text",
+            "slug": "title",
+            "description": "textarea-nic",
+            "modal": false
+        }
+    },
+    "footer": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Footer",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "1850x450"
+                }
+            },
+            "description": "textarea"
+        }
+    },
+    "social_icon": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Social Icon",
+        "element": {
+            "icon": "icon",
+            "url": "text",
+            "modal": true
+        }
+    },
+    "contact": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Contact",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "640x620"
+                }
+            },
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "icon": "icon",
+            "title": "text",
+            "content": "text",
+            "modal": true
+        }
+    },
+    "login": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Login Page",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "640x620"
+                }
+            },
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "registration": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Registration Page",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "640x620"
+                }
+            },
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "policy_pages": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Policy Pages",
+        "element": {
+            "title": "text",
+            "slug": "title",
+            "details": "textarea-nic",
+            "modal": false
+        }
+    },
+    "kyc": {
+        "builder": true,
+        "no_selection": true,
+        "name": "KYC Content",
+        "content": {
+            "required": "text",
+            "pending": "text",
+            "reject": "text"
+        }
+    },
+    "register_disable": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Registration Disable",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "280x280"
+                }
+            },
+            "heading": "text",
+            "subheading": "text",
+            "button_name": "text",
+            "button_url": "text"
+        }
+    }
+}
